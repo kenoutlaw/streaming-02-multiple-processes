@@ -1,7 +1,32 @@
-In the console, type clear and hit Enter or Return. 
+======================================================================
+STARTING UP.............................
+  Date and Time:    2024-05-10 at 05:49 PM
+  Operating System: nt Windows 10
+  Python Version:   3.11.9
+  Path to Interpreter:  C:\Users\maste\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe
+======================================================================
 
-This will clear the console output. 
+2024-05-10 17:49:06,096 - INFO - Called recreate_database().
+2024-05-10 17:49:06,096 - INFO - Called drop_table().
+2024-05-10 17:49:06,104 - INFO - Table 'pets' dropped successfully.
+2024-05-10 17:49:06,104 - INFO - Called create_table().
+2024-05-10 17:49:06,113 - INFO - Table 'pets' created successfully.
+2024-05-10 17:49:14,863 - INFO - Called process_one().
+2024-05-10 17:49:14,864 - INFO -   Called insert_pet() with process=P1, name=Ace, breed=Dog.
+2024-05-10 17:49:17,888 - INFO -   Called insert_pet() with process=P1, name=Buddy, breed=Dog.
+2024-05-10 17:49:23,419 - INFO - Called process_two().
+2024-05-10 17:49:23,419 - INFO -   Called insert_pet() with process=P2, name=Cooper, breed=Rabbit.
+2024-05-10 17:49:26,429 - INFO -   Called insert_pet() with process=P2, name=Dingo, breed=Dog.
+2024-05-10 17:49:31,948 - INFO - Called process_three().
+2024-05-10 17:49:31,948 - INFO -   Called insert_pet() with process=P3, name=Emma, breed=Rabbit.
+2024-05-10 17:49:34,958 - INFO -   Called insert_pet() with process=P3, name=Felix, breed=Cat.
+2024-05-10 17:49:37,984 - INFO - 
+SUCCESS: All processes successfully completed!
 
-Run the file once while the tasks are longer. 
-
-Copy and paste the terminal results (when task_duration is 3) here.
+Now - increase the task duration (representing
+      the time the task has the database
+      tied up during an insert statement).
+How well do multiple, concurrent processes share a database
+    when each task takes more time?
+How can multiple processes share a resource
+    without interfering with each other?

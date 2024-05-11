@@ -1,7 +1,21 @@
-In the console, type clear and hit Enter or Return. 
+STARTING UP.............................
+  Date and Time:    2024-05-10 at 05:26 PM
+  Operating System: nt Windows 10
+  Python Version:   3.11.9
+  Path to Interpreter:  C:\Users\maste\AppData\Local\Microsoft\WindowsApps\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\python.exe
+======================================================================
 
-This will clear the console output. 
-
-Run the file once while the tasks are short. 
-
-Copy and paste the terminal results (when task_duration is 0) here.
+2024-05-10 17:26:52,626 - INFO - Called recreate_database().
+2024-05-10 17:26:52,626 - INFO - Called drop_table().
+2024-05-10 17:26:52,634 - INFO - Table 'pets' dropped successfully.
+2024-05-10 17:26:52,635 - INFO - Called create_table().
+2024-05-10 17:26:52,659 - INFO - Table 'pets' created successfully.
+2024-05-10 17:27:01,756 - INFO - Called process_one().
+2024-05-10 17:27:01,757 - INFO -   Called insert_pet() with process=P1, name=Ace, breed=Dog.
+2024-05-10 17:27:04,763 - INFO -   Called insert_pet() with process=P1, name=Buddy, breed=Dog.
+2024-05-10 17:27:10,077 - INFO - Called process_two().
+2024-05-10 17:27:10,077 - INFO -   Called insert_pet() with process=P2, name=Cooper, breed=Rabbit.
+2024-05-10 17:27:13,086 - INFO -   Called insert_pet() with process=P2, name=Dingo, breed=Dog.
+2024-05-10 17:27:18,803 - INFO - Called process_three().
+2024-05-10 17:27:18,803 - INFO -   Called insert_pet() with process=P3, name=Emma, breed=Rabbit.
+2024-05-10 17:27:21,932 - INFO -   Called insert_pet() with process=P3, name=Felix, breed=Cat.
