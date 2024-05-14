@@ -1,0 +1,25 @@
+NSN,Nomenclature,Quantity,TransactionDate
+2024-05-14 17:37:01,459 - INFO - Sent: b'[1005007265636, \tMACHINE GUN 7.62,  \t5, \t4/12/2024\t]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:04,461 - INFO - Sent: b'[5430014698744, \tTANK FABRIC, \t\t53, \t4/12/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:07,463 - INFO - Sent: b'[2330011087367, \tTRAILER TANK, \t\t19, \t4/12/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:10,463 - INFO - Sent: b'[5810010269621, \tVPA ASSEMBLY, \t\t23, \t4/12/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:13,464 - INFO - Sent: b'[5430012039971, \tTANK WATER, \t\t24, \t4/12/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:16,466 - INFO - Sent: b'[1005014123129, \tMACHINE GUN 7.62, \t44, \t4/13/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:19,466 - INFO - Sent: b'[5855014320524, \tVIEWER NIGHT VISION, \t27, \t4/14/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:22,468 - INFO - Sent: b'[6665013821968, \tALARM CHEMICAL AGEN, \t50, \t4/14/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:25,469 - INFO - Sent: b'[1375000473751, \tDEMOLITION SET EXPL, \t15, \t4/14/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:28,470 - INFO - Sent: b'[1005005420843, \tRIFLE 22CAL, \t\t66, \t4/15/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:31,471 - INFO - Sent: b'[1015011646651, \tMORTAR 81 MILLIMETE, \t26, \t4/15/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:34,472 - INFO - Sent: b'[6350013821826, \tSENSOR MOBILE MONIT, \t36, \t4/15/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:37,473 - INFO - Sent: b'[5895013381702, \tEM PROGRAM ENTRY DE, \t68, \t4/15/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:40,474 - INFO - Sent: b'[2310013808225, \tTRUCK AMBULANCE, \t46, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:43,475 - INFO - Sent: b'[1005012310973, \tCARBINE 5.56 MILLIM, \t47, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:46,476 - INFO - Sent: b'[2330013875426, \tTRAILER CARGO, \t\t16, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:49,477 - INFO - Sent: b'[2330013035197, \tTRAILER PALLETIZED, \t8, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:52,478 - INFO - Sent: b'[6625015685523, \tTHIRD ECHELON TEST, \t24, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:55,479 - INFO - Sent: b'[4930015497112, \tLUBRICATING UNIT, \t39, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:37:58,480 - INFO - Sent: b'[2320015402038, \tTRUCK UTILITY, \t\t59, \t4/16/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:38:01,481 - INFO - Sent: b'[2320015939122, \tTRUCK WRECKER, \t\t52, \t4/17/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:38:04,482 - INFO - Sent: b'[2355015393639, \tLIGHT ARMORED VEHIC, \t60, \t4/17/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:38:07,483 - INFO - Sent: b'[2320015427628, \tTRUCK CARGO, \t\t9, \t4/17/2024]' on port 9999. Hit CTRL-c to stop.
+2024-05-14 17:38:10,483 - INFO - Sent: b'[2330016697763, \tSEMITRAILER TANK, \t69, \t4/17/2024]' on port 9999. Hit CTRL-c to stop.
