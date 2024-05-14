@@ -26,6 +26,7 @@ HOST = "localhost"
 PORT = 9999
 ADDRESS_TUPLE = (HOST, PORT)
 INPUT_FILE_NAME = "equipment.csv"
+OUTPUT_FILE_NAME = "out9.txt"
 
 # Define program functions (bits of reusable code)
 
@@ -87,8 +88,8 @@ def stream_row(input_file_name, address_tuple):
 
     # Create a file object for output (w = write access)
     # Set the newline parameter to an empty string to avoid extra newlines in the output file
-    with open(out9, "w", newline="") as output_file:
-        logging.info(f"Opened for writing: {out9}.")
+    with open(OUTPUT_FILE_NAME, "w", newline="") as output_file:
+        logging.info(f"Opened for writing: {OUTPUT_FILE_NAME}.")
 
         # Create a CSV writer object
         writer = csv.writer(output_file, delimiter=",")
